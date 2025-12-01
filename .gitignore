@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# PyCharm / інші IDE
+.idea/
